@@ -1,2 +1,1 @@
-# snake
-First try
+My first project is snake
